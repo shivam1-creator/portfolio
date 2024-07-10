@@ -282,3 +282,17 @@ footer {
     height: 50vh;
   }
 }
+@media (max-width: 500px) {
+  .container-1{
+    font-size: 20px;
+    width: 500px;
+    margin-left: 0px;
+  }
+}
+@media (max-width: 786px) {
+  .container-1{
+    font-size: 40px;
+    width: 500px;
+    margin-left: 50px;
+  }
+}
